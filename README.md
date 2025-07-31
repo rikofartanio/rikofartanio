@@ -9,7 +9,7 @@ i'm also actively learning **Golang** to expand my skill set in building peforma
 
 Currently working with **JavaScript** and learning **Golang** to strengthen my backend development skills focused on performance and scalability. 🤩🤩🤩
 
-![Semangat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VsbWh6aDh1Y3VyeTF2OWxvbGNhenpvcmJvb3R1Z3dtcTZ5bzM4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378eDFEyJjB8Xmqk/giphy.gif)
+<img src="https://media0.giphy.com/media/l378eDFEyJjB8Xmqk/giphy.gif" width="300" alt="Semangat" />
 
 
 ## 🌐 Socials:
