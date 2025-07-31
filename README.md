@@ -1,5 +1,5 @@
-## Hello I'm Riko Fartanio👋
-
+## Riko Fartanio👋
+![riko](img/github-header-image%20(3).png)
 <!--
 **rikofartanio/rikofartanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
