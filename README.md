@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello I'm Riko Fartanio👋
 
 <!--
 **rikofartanio/rikofartanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m building project with **Javascript**.
+i'm also actively learning **Golang** to expand my skill set in building peformant and scalable backend systems. 🤩🤩🤩
+
+![Semangat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VsbWh6aDh1Y3VyeTF2OWxvbGNhenpvcmJvb3R1Z3dtcTZ5bzM4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378eDFEyJjB8Xmqk/giphy.gif)
